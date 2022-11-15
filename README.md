@@ -27,3 +27,6 @@ Folders "Classifier Models" and "Meta Models" contains pickle files related to t
 5) To get predictions on any data, 
 - Replace input_file_name and output_file_name appropriately and 
 - Run Generate_Predictions.py file
+
+
+ 
