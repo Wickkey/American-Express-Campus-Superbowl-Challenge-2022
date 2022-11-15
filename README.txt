@@ -1,3 +1,14 @@
+# Data Science Challenge
+
+## Predict time to credit default for a customer basis the variables provided across various Categories.
+
+### Overview: 
+
+![alt text](https://github.com/Wickkey/American-Express-Campus-Superbowl-Challenge-2022
+/blob/main/Images/Model Outline.svg?raw=true)
+
+
+### Files Present:
 1) Denoiser.ipynb is notebook relevant to one-hot encoding categorical variables and denoising the data
 2) Meta_features_level1.ipynb is notebook relevant to adding layer1 meta features 
 3) Meta_features_level2.ipynb is notebook relevant to adding layer2 meta features
