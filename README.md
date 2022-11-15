@@ -5,7 +5,7 @@
 ### Overview: 
 
 ![alt text](https://github.com/Wickkey/American-Express-Campus-Superbowl-Challenge-2022
-/blob/main/Images/Model Outline.svg?raw=true)
+/blob/main/Images/Model Outline.png?raw=true)
 
 
 ### Files Present:
