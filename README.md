@@ -2,6 +2,8 @@
 
 ## Predict time to credit default for a customer basis the variables provided across various Categories.
 
+## Top 5 among 3600 participants in the public leaderboard among students from all IIT Campuses and Economic Institutes. (Team: Dopa-mean)
+
 ### Overview: 
 
 ![Model Outline](https://github.com/Wickkey/American-Express-Campus-Superbowl-Challenge-2022/blob/main/Images/Model_Overview.png?raw=true)
