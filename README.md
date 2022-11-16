@@ -2,7 +2,7 @@
 
 ## Predict time to credit default for a customer basis the variables provided across various Categories.
 
-Finalist, Top 5 among 3600 participants in the public leaderboard among students from all IIT Campuses and Economic Institutes. (Team: Dopa-mean)
+Finalist, placed 4th among 3600 participants in the public leaderboard among students from all IIT Campuses and Economic Institutes. (Team: Dopa-mean)
 
 ### Overview: 
 
